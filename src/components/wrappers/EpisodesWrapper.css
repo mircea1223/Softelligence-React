@@ -1,0 +1,9 @@
+.episodes-wrapper {
+    display: flex;
+}
+.episodes-wrapper > :first-child {
+    width: 40%;
+}
+.episodes-wrapper > :last-child {
+    width: 60%;
+}
